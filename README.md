@@ -25,7 +25,7 @@
 |관세율구분코드|trff_class_code|해당 품목의 세율에 따른 구분 부호|
 |원산지표시유무코드|country_orig_mark_code|원산지 표시 유무 및 표시면제사유에 따른 부호|
 |신고중량|dec_weight|포장용기를 제외한 물품 중량(KG)|
-|과세가격원화금액|taxabal_price_KRW|구마재가 실제로 지급한 금액(원)|
+|과세가격원화금액|taxabal_price_KRW|구가 실제로 지급한 금액(원)|
 |우범여부|crime_yn|우범화물여부|
 |핵심적발|key_exposure|우범 항목중 가중치가 높은 우범여부|
 
