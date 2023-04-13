@@ -20,7 +20,7 @@
 |특송업체부호|exps_carr_code|특송 방법 및 특송 업체의 부호|
 |HS10단위부호|HS10|10자리 물품 분류 부호|
 |적출국가코드|country_ship_code|신고물품의 해외선적국가 부호|
-|원산지국가코드|country_orig_code|원산지 국가의 부하|
+|원산지국가코드|country_orig_code|원산지 국가의 부|
 |관세율|trff_rate|해당 품목의 세율(%)|
 |관세율구분코드|trff_class_code|해당 품목의 세율에 따른 구분 부호|
 |원산지표시유무코드|country_orig_mark_code|원산지 표시 유무 및 표시면제사유에 따른 부호|
